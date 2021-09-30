@@ -9,10 +9,10 @@
 Blinking Led Project using Raspberry Pi
 
 == Step 1: Circuit Setup
-Connect the LED to the PIN 5 for the GND terminal and connect other terminal to the PIN 6 according to the sketch uploaded on Arduino IOT Cloud. 
+Connect the LED to the PIN 5 for the GND terminal and connect other terminal to the PIN 7 according to the sketch uploaded on Arduino IOT Cloud. 
 
 == Step 2: Assemble the circuit
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit following the diagram Circuit.png attached to the sketch
 
 == Step 3: Load the code
 Upload the code contained in this sketch on to your board
@@ -22,7 +22,7 @@ Upload the code contained in this sketch on to your board
 ....
  Project: SIT210-Task5.1P-RPi - GPIO Basics       => Arduino sketch folder
   ├── Task5.1.py                                  => main Arduino file
-  ├── Layout.jfif                                 => An image of the circuit layout
+  ├── Circuit.png                                 => An image of the circuit layout
   └── ReadMe.adoc                                 => Method to work with the files
 ....
 
