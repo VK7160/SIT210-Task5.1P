@@ -8,29 +8,20 @@
 
 Blinking Led Project using Raspberry Pi
 
-== Step 1: Installation
-Connect the DHT22 sensor to the Nano 33 IoT according to the sketch uploaded on Arduino IOT Cloud and provide a network connection to show real-time changes in data on the dashboard 
-
-For example:
-
-1. Open this file
-2. Refer to the Pictures for the connections
-3. Build the dashboard taking reference of the Picture above  
+== Step 1: Circuit Setup
+Connect the LED to the PIN 5 for the GND terminal and connect other terminal to the PIN 6 according to the sketch uploaded on Arduino IOT Cloud. 
 
 == Step 2: Assemble the circuit
-
 Assemble the circuit following the diagram layout.png attached to the sketch
 
 == Step 3: Load the code
-
 Upload the code contained in this sketch on to your board
 
-=== Folder structure
 
+=== Folder structure
 ....
  Project: SIT210-Task5.1P-RPi - GPIO Basics       => Arduino sketch folder
-  ├── sketch123.ino                               => main Arduino file
-  ├── Dashboard.png                               => An image of the Dashboard
+  ├── sketch.py                                   => main Arduino file
   ├── Layout.jfif                                 => An image of the circuit layout
   └── ReadMe.adoc                                 => Method to work with the files
 ....
