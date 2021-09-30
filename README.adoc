@@ -21,7 +21,7 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 ....
  Project: SIT210-Task5.1P-RPi - GPIO Basics       => Arduino sketch folder
-  ├── sketch.py                                   => main Arduino file
+  ├── Task5.1.py                                  => main Arduino file
   ├── Layout.jfif                                 => An image of the circuit layout
   └── ReadMe.adoc                                 => Method to work with the files
 ....
